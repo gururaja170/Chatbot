@@ -1,0 +1,23 @@
+{
+  "name": "chatbot-grow",
+  "version": "1.0.0",
+  "description": "Grow Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "author": "Gururaja Bolisetty",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.3.4",
+    "simplecrypt": "^0.1.0",
+    "string-similarity-js": "^2.1.4"
+  }
+}
